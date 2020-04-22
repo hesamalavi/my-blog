@@ -1,0 +1,10 @@
+- name: Hesam Alavi
+  bio: |
+      Good to be here!
+  avatar: ./avatars/hesam.jpg
+  social:
+      - url: https://www.linkedin.com/in/hesam-alavi-59b61987/
+      - url: https://twitter.com/HesamAlavi27
+      - url: https://github.com/hesamalavi
+      - url: https://stackoverflow.com/users/12542350/hesam-alavi?tab=profile
+  featured: true

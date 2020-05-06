@@ -12,7 +12,8 @@ module.exports = {
             heading: `Perspectives on technology, design and business from the team at Narative.`,
             maxWidth: 652,
         },
-        social: [{
+        social: [
+            {
                 name: `linkedin`,
                 url: `https://www.linkedin.com/in/hesam-alavi-59b61987/`,
             },
@@ -30,5 +31,5 @@ module.exports = {
             },
         ],
     },
-    plugins: ['@narative/gatsby-theme-novela'],
+    plugins: ['@narative/gatsby-theme-novela', `gatsby-plugin-netlify-cms`],
 };
